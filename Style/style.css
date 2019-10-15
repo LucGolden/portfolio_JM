@@ -1,0 +1,54 @@
+nav {
+  text-transform: uppercase;
+}
+.home {
+  font-family: 'Patua One', cursive;
+  font-size: 30px;
+}
+.navbar .nav {
+  text-decoration: none;
+  /* text-transform: none; */
+}
+.text {
+  font-family: 'Patua One', cursive;
+}
+#name {
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+  font-size: 4em;
+}
+div p span {
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+  font-size: 20px;
+}
+div .hi {
+  margin-top: 5em;
+}
+
+.bitmogihi {
+  width: 20em;
+  height: 20em;
+}
+.yellow {
+  color: #ffc107;
+}
+
+/* FORMATIONS */
+.img1 {
+  width: 10em;
+  height: 10em;
+}
+h2 {
+  font-family: 'Patua One', cursive;
+  text-transform: uppercase;
+}
+.forma{
+    text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+  font-size: 20px;
+}
+.sousforma{
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
+}
